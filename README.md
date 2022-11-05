@@ -1,6 +1,9 @@
 # research_classification-of-respiratory-diseases-and-covid19
 
-A research on respiratory diseases and COVID-19 classification from respiratory and cough sounds using deep learning.
+A research on respiratory diseases and COVID-19 classification from respiratory and cough sounds using deep learning.  
+
+### Project Members:  
+[Md. Mubtasim Ahasan](https://github.com/mubtasimrobin), Mohammad Fahim, Himadri Mazumder, Nur E Fatema, Sheikh Mustafizur Rahman and [Jannatun Noor](https://github.com/jannatunnoor/) 
 
 ## Requirements  
 
